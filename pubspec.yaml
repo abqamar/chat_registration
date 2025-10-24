@@ -1,0 +1,25 @@
+name: chat_registration
+description: Chat-like registration flow with type-aware input, typing animation, and full theming.
+version: 0.1.0
+homepage: https://github.com/abqamar/chat_registration
+repository: https://github.com/abqamar/chat_registration.git
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+  flutter: ">=3.22.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter packages.
+flutter:
+  uses-material-design: true
