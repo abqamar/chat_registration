@@ -5,7 +5,7 @@ A chat-style registration flow for Flutter apps — makes onboarding feel conver
 Add this line to your pubspec.yaml:
 ```yaml
 dependencies:
-  chat_registration: ^0.1.0
+  chat_registration: ^0.0.1
 ```
 Then run:
 ```hash

@@ -1,6 +1,6 @@
 name: chat_registration
 description: Chat-like registration flow with type-aware input, typing animation, and full theming.
-version: 0.1.0
+version: 0.0.1
 homepage: https://github.com/abqamar/chat_registration
 repository: https://github.com/abqamar/chat_registration.git
 
