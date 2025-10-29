@@ -1,9 +1,10 @@
 ## chat_registration
 A chat-style registration flow for Flutter apps — makes onboarding feel conversational, like a messaging app.
 
-<p align="center">
-  <img src="https://github.com/abqamar/chat_registration/blob/main/screen_shot/chat_registration.gif?raw=true" alt="Chat Registration Demo" width="480" height="800" />
-</p>
+[![pub package](https://img.shields.io/pub/v/chat_registration.svg)](https://pub.dev/packages/chat_registration)
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+<img src="https://github.com/abqamar/chat_registration/blob/main/screen_shot/chat_registration.gif?raw=true" alt="Chat Registration Demo" width="480" height="800" />
 
 ## 📦 Installation
 Add this line to your pubspec.yaml:
